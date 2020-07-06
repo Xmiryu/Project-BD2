@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\bin\Debug\Projekt.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
