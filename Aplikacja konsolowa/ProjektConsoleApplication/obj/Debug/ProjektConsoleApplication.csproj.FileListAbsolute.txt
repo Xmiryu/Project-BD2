@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ProjektConsoleApplication\ProjektConsoleApplication\bin\Debug\ProjektConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ProjektConsoleApplication\ProjektConsoleApplication\bin\Debug\ProjektConsoleApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ProjektConsoleApplication\ProjektConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ProjektConsoleApplication\ProjektConsoleApplication\obj\Debug\ProjektConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ProjektConsoleApplication\ProjektConsoleApplication\obj\Debug\ProjektConsoleApplication.pdb
