@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\Projekt.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\Projekt.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\obj\Debug\TestProjekt.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\obj\Debug\TestProjekt.pdb

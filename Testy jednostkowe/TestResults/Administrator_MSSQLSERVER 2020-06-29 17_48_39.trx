@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3f99974b-53b0-451c-8552-a9571ce3a90b" name="Administrator@MSSQLSERVER 2020-06-29 17:48:39" runUser="MSSQLSERVER\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="0c7bed46-05ca-4402-a23d-c0f96bab5775">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestResults\Administrator_MSSQLSERVER 2020-06-29 17_48_39">
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Projekt\Projekt\bin\Debug\Projekt.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2020-06-29T17:48:39.8350000+02:00" queuing="2020-06-29T17:48:40.8240000+02:00" start="2020-06-29T17:48:41.2040000+02:00" finish="2020-06-29T17:48:43.5190000+02:00" />
+  <TestDefinitions>
+    <UnitTest name="TestVegetation" storage="c:\users\administrator\documents\visual studio 2008\projects\testprojekt\testprojekt\bin\debug\testprojekt.dll" id="44c5aa16-55f3-0295-64be-bbe9251655c9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f9df29bf-aff8-4a95-b2ea-4c42787912e5" />
+      <TestMethod codeBase="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjekt.UnitTest1, TestProjekt" name="TestVegetation" />
+    </UnitTest>
+    <UnitTest name="TestDominanta" storage="c:\users\administrator\documents\visual studio 2008\projects\testprojekt\testprojekt\bin\debug\testprojekt.dll" id="8e116f2a-8406-fa7b-6ef8-43cc2557da5b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="676bb93b-21a2-41b5-94c2-eed8893dfb5a" />
+      <TestMethod codeBase="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjekt.UnitTest1, TestProjekt" name="TestDominanta" />
+    </UnitTest>
+    <UnitTest name="TestNegatives" storage="c:\users\administrator\documents\visual studio 2008\projects\testprojekt\testprojekt\bin\debug\testprojekt.dll" id="d6276fac-2372-2098-2a8f-c8c1e16ce5be">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7ff9fd6a-1b36-4e74-b941-f9488ad8d5d4" />
+      <TestMethod codeBase="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjekt.UnitTest1, TestProjekt" name="TestNegatives" />
+    </UnitTest>
+    <UnitTest name="TestCountRange" storage="c:\users\administrator\documents\visual studio 2008\projects\testprojekt\testprojekt\bin\debug\testprojekt.dll" id="5a480f37-89ba-cf1e-a53d-267f1fbbea14">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3b1a4369-2864-4a8f-a67d-0fff1a46638c" />
+      <TestMethod codeBase="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjekt.UnitTest1, TestProjekt" name="TestCountRange" />
+    </UnitTest>
+    <UnitTest name="TestMedian" storage="c:\users\administrator\documents\visual studio 2008\projects\testprojekt\testprojekt\bin\debug\testprojekt.dll" id="c8ee71ad-c42c-fe98-6b9a-b3d6286df901">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7e7fdb7b-43f1-467a-87f1-517ad55189bb" />
+      <TestMethod codeBase="C:\Users\Administrator\Documents\Visual Studio 2008\Projects\TestProjekt\TestProjekt\bin\Debug\TestProjekt.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjekt.UnitTest1, TestProjekt" name="TestMedian" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c8ee71ad-c42c-fe98-6b9a-b3d6286df901" executionId="7e7fdb7b-43f1-467a-87f1-517ad55189bb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6276fac-2372-2098-2a8f-c8c1e16ce5be" executionId="7ff9fd6a-1b36-4e74-b941-f9488ad8d5d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="44c5aa16-55f3-0295-64be-bbe9251655c9" executionId="f9df29bf-aff8-4a95-b2ea-4c42787912e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e116f2a-8406-fa7b-6ef8-43cc2557da5b" executionId="676bb93b-21a2-41b5-94c2-eed8893dfb5a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a480f37-89ba-cf1e-a53d-267f1fbbea14" executionId="3b1a4369-2864-4a8f-a67d-0fff1a46638c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7e7fdb7b-43f1-467a-87f1-517ad55189bb" testId="c8ee71ad-c42c-fe98-6b9a-b3d6286df901" testName="TestMedian" computerName="MSSQLSERVER" duration="00:00:00.1695628" startTime="2020-06-29T17:48:41.3170000+02:00" endTime="2020-06-29T17:48:41.7670000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7ff9fd6a-1b36-4e74-b941-f9488ad8d5d4" testId="d6276fac-2372-2098-2a8f-c8c1e16ce5be" testName="TestNegatives" computerName="MSSQLSERVER" duration="00:00:00.0050489" startTime="2020-06-29T17:48:41.7750000+02:00" endTime="2020-06-29T17:48:41.7840000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f9df29bf-aff8-4a95-b2ea-4c42787912e5" testId="44c5aa16-55f3-0295-64be-bbe9251655c9" testName="TestVegetation" computerName="MSSQLSERVER" duration="00:00:00.0044076" startTime="2020-06-29T17:48:41.7880000+02:00" endTime="2020-06-29T17:48:41.7960000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="676bb93b-21a2-41b5-94c2-eed8893dfb5a" testId="8e116f2a-8406-fa7b-6ef8-43cc2557da5b" testName="TestDominanta" computerName="MSSQLSERVER" duration="00:00:00.0045399" startTime="2020-06-29T17:48:41.8000000+02:00" endTime="2020-06-29T17:48:41.8090000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3b1a4369-2864-4a8f-a67d-0fff1a46638c" testId="5a480f37-89ba-cf1e-a53d-267f1fbbea14" testName="TestCountRange" computerName="MSSQLSERVER" duration="00:00:00.0044320" startTime="2020-06-29T17:48:41.8140000+02:00" endTime="2020-06-29T17:48:41.8210000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
